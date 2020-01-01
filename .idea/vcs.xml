@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DiceRoller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exercise1Car_Loan_Application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exercise2BMI_Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exercise3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fundamental-starter-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JobsApp/MobileApp-Exercise1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JobsApp/MobileApp-Exercise2" vcs="Git" />
+  </component>
+</project>
